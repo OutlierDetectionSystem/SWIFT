@@ -1,0 +1,53 @@
+1	Flower Shop
+2	Pharmacy
+3	Health, Beauty & Care
+4	Corridor_Health
+5	Fashion & Textiles
+6	Corridor_Fashion & Textiles
+7	Small Household Goods
+8	Corridor_Small Household
+9	Aisle_Household
+10	Corridor_Home Appliances
+11	Home Appliances
+12	Corridor_Books & Stationary
+13	Books & Stationary
+14	Corridor_Seasonal Non-Food
+15	Seasonal Non-Food
+16	Corridor_Toys, Sports & DIY
+17	Toys, Sports & DIY
+18	Corridor_Beverages
+19	Beverages
+20	Corridor_Cheese & Charcuterie Counter
+21	Cheese & Charcuterie Counter
+22	Meat Counter
+23	Fish Counter
+24	Right Aisle_Fish Counter
+25	Left Aisle_Fish Counter
+26	Frozen Deli & Dairy
+27	Right Aisle_Frozen Deli & Dairy
+28	Left Aisle_Frozen Deli & Dairy
+29	Fruit & Vegetables
+30	Neighboring_Fruit & Vegetables
+31	Chilled Deli & Dairy
+32	Neighboring_Chilled Deli & Dairy
+33	Bakery & Patisserie
+34	Corridor_Bakery & Patisserie
+35	Regional Products
+36	Corridor_Regional Products
+37	Snack Counter
+38	Corridor_Snack Counter
+39	Household & Pets Products
+40	Corridor_Household & Pets Products
+41	Aisle_Household & Pets Products
+42	Dry Grocery Products
+43	Corridor_Dry Grocery Products
+44	Organic Products
+45	Right Aisle_Organic Products
+46	Left Aisle_Organic Products
+47	Promotion Products
+48	Check Out
+49	Corridor_Check Out
+50	Outside Store
+51	Entrance
+52	Wine
+999	unknown

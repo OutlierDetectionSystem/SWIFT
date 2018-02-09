@@ -1,0 +1,1498 @@
+Device id: 2016-05-14-:-a4d0dff1-8a2e-0500-11c3-ae4014a64d42
+ 42, 1, Frequency: 4
+Dry Grocery Products	Flower Shop	
+
+ 5, 6, 47, Frequency: 2
+Fashion & Textiles	Corridor_Fashion & Textiles	Promotion Products	
+
+Device id: 2016-05-18-:-79788731-c932-0500-14ce-4440e28c4a42
+ 51, 4, 51, 4, 51, 4, 51, 4, Frequency: 2
+Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+ 51, 51, 4, 4, Frequency: 2
+Entrance	Entrance	Corridor_Health	Corridor_Health	
+
+Device id: 2016-05-19-:-8802ca2d-0032-0500-909f-4440a7884a42
+ 2, 4, Frequency: 2
+Pharmacy	Corridor_Health	
+
+Device id: 2016-05-19-:-9bdbf288-a131-0500-05ce-0e40227b4342
+ 4, 51, 51, 4, 51, 4, 51, 4, 51, 4, 51, 4, Frequency: 2
+Corridor_Health	Entrance	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+ 4, 51, 4, 51, 4, 51, 4, 4, 51, 4, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Corridor_Health	Entrance	Corridor_Health	
+
+Device id: 2016-05-23-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 30, 22, 20, Frequency: 2
+Neighboring_Fruit & Vegetables	Meat Counter	Corridor_Cheese & Charcuterie Counter	
+
+Device id: 2016-05-23-:-e22c5e98-a432-0500-47ce-4440df8c4a42
+ 31, 32, 30, 32, Frequency: 2
+Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-05-24-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 18, 19, 18, 40, Frequency: 2
+Corridor_Beverages	Beverages	Corridor_Beverages	Corridor_Household & Pets Products	
+
+Device id: 2016-05-25-:-2ced5415-de31-0500-e2cf-0e40207b4342
+ 40, 52, 39, Frequency: 2
+Corridor_Household & Pets Products	Wine	Household & Pets Products	
+
+ 33, 35, 37, 38, Frequency: 2
+Bakery & Patisserie	Regional Products	Snack Counter	Corridor_Snack Counter	
+
+Device id: 2016-05-26-:-d4adb0f1-1833-0500-a6ce-4440db8c4a42
+ 1, 47, Frequency: 3
+Flower Shop	Promotion Products	
+
+Device id: 2016-05-27-:-01cf3ec6-8631-0500-b8ce-0e40237b4342
+ 2, 51, 4, 51, 4, 51, Frequency: 2
+Pharmacy	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	
+
+Device id: 2016-05-27-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 47, 6, 4, 6, Frequency: 2
+Promotion Products	Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	
+
+ 6, 47, 51, Frequency: 2
+Corridor_Fashion & Textiles	Promotion Products	Entrance	
+
+Device id: 2016-05-27-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 19, 18, 19, Frequency: 2
+Beverages	Corridor_Beverages	Beverages	
+
+Device id: 2016-05-28-:-322d1b03-1933-0500-cfce-4440df8c4a42
+ 6, 8, 7, 8, 7, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Small Household	Small Household Goods	Corridor_Small Household	Small Household Goods	
+
+Device id: 2016-05-28-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 2, 51, 4, Frequency: 2
+Pharmacy	Entrance	Corridor_Health	
+
+Device id: 2016-05-31-:-8802ca2d-0032-0500-909f-4440a7884a42
+ 39, 52, 39, 47, Frequency: 2
+Household & Pets Products	Wine	Household & Pets Products	Promotion Products	
+
+Device id: 2016-06-01-:-649c1d14-a031-0500-26cd-0e40347b4342
+ 4, 3, 5, 3, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Fashion & Textiles	Health, Beauty & Care	
+
+Device id: 2016-06-02-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 47, 41, 47, 18, Frequency: 2
+Promotion Products	Aisle_Household & Pets Products	Promotion Products	Corridor_Beverages	
+
+ 32, 34, 33, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Corridor_Bakery & Patisserie	Bakery & Patisserie	
+
+ 4, 47, 42, 39, 52, Frequency: 2
+Corridor_Health	Promotion Products	Dry Grocery Products	Household & Pets Products	Wine	
+
+Device id: 2016-06-06-:-af807357-1933-0500-42ce-4440dd8c4a42
+ 4, 51, 4, 51, 4, 51, 4, 51, 4, 51, 51, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Entrance	
+
+Device id: 2016-06-07-:-9bdbf288-a131-0500-05ce-0e40227b4342
+ 46, 42, Frequency: 2
+Left Aisle_Organic Products	Dry Grocery Products	
+
+Device id: 2016-06-08-:-409a1c9f-c034-0500-75bb-ae4081a64d42
+ 39, 11, Frequency: 2
+Household & Pets Products	Home Appliances	
+
+Device id: 2016-06-08-:-420d4a72-c534-0500-2dd7-454034854a42
+ 11, 11, 11, 10, Frequency: 2
+Home Appliances	Home Appliances	Home Appliances	Corridor_Home Appliances	
+
+ 11, 50, Frequency: 2
+Home Appliances	Outside Store	
+
+ 48, 11, Frequency: 7
+Check Out	Home Appliances	
+
+ 47, 43, 43, Frequency: 2
+Promotion Products	Corridor_Dry Grocery Products	Corridor_Dry Grocery Products	
+
+ 26, 4, Frequency: 2
+Frozen Deli & Dairy	Corridor_Health	
+
+ 48, 47, 4, Frequency: 2
+Check Out	Promotion Products	Corridor_Health	
+
+Device id: 2016-06-08-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 9, 7, 7, Frequency: 2
+Aisle_Household	Small Household Goods	Small Household Goods	
+
+Device id: 2016-06-09-:-420d4a72-c534-0500-2dd7-454034854a42
+ 11, 48, Frequency: 2
+Home Appliances	Check Out	
+
+ 12, 31, Frequency: 2
+Corridor_Books & Stationary	Chilled Deli & Dairy	
+
+ 12, 11, Frequency: 2
+Corridor_Books & Stationary	Home Appliances	
+
+ 39, 48, 39, Frequency: 2
+Household & Pets Products	Check Out	Household & Pets Products	
+
+ 51, 12, Frequency: 2
+Entrance	Corridor_Books & Stationary	
+
+ 42, 48, Frequency: 5
+Dry Grocery Products	Check Out	
+
+Device id: 2016-06-09-:-9331006a-1933-0500-92ce-4440dc8c4a42
+ 32, 34, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Corridor_Bakery & Patisserie	
+
+Device id: 2016-06-09-:-b204511c-c034-0500-22bc-ae4074a64d42
+ 48, 47, Frequency: 3
+Check Out	Promotion Products	
+
+ 14, 42, 16, Frequency: 2
+Corridor_Seasonal Non-Food	Dry Grocery Products	Corridor_Toys, Sports & DIY	
+
+Device id: 2016-06-09-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 52, 45, 27, 32, Frequency: 2
+Wine	Right Aisle_Organic Products	Right Aisle_Frozen Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+ 27, 45, 52, Frequency: 2
+Right Aisle_Frozen Deli & Dairy	Right Aisle_Organic Products	Wine	
+
+ 41, 52, 39, Frequency: 2
+Aisle_Household & Pets Products	Wine	Household & Pets Products	
+
+ 42, 47, 42, 47, Frequency: 2
+Dry Grocery Products	Promotion Products	Dry Grocery Products	Promotion Products	
+
+ 32, 36, 35, 36, Frequency: 4
+Neighboring_Chilled Deli & Dairy	Corridor_Regional Products	Regional Products	Corridor_Regional Products	
+
+Device id: 2016-06-11-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 44, 44, 26, Frequency: 2
+Organic Products	Organic Products	Frozen Deli & Dairy	
+
+Device id: 2016-06-14-:-9331006a-1933-0500-92ce-4440dc8c4a42
+ 32, 30, 32, 27, 45, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Right Aisle_Frozen Deli & Dairy	Right Aisle_Organic Products	
+
+ 35, 37, 38, Frequency: 2
+Regional Products	Snack Counter	Corridor_Snack Counter	
+
+ 22, 20, 30, 24, Frequency: 2
+Meat Counter	Corridor_Cheese & Charcuterie Counter	Neighboring_Fruit & Vegetables	Right Aisle_Fish Counter	
+
+Device id: 2016-06-15-:-d4adb0f1-1833-0500-a6ce-4440db8c4a42
+ 39, 52, 40, 18, Frequency: 2
+Household & Pets Products	Wine	Corridor_Household & Pets Products	Corridor_Beverages	
+
+Device id: 2016-06-16-:-649c1d14-a031-0500-26cd-0e40347b4342
+ 42, 47, 42, 47, 4, Frequency: 2
+Dry Grocery Products	Promotion Products	Dry Grocery Products	Promotion Products	Corridor_Health	
+
+ 1, 21, Frequency: 2
+Flower Shop	Cheese & Charcuterie Counter	
+
+Device id: 2016-06-16-:-c275058f-9132-0500-c8ce-4440df8c4a42
+ 42, 39, 45, Frequency: 2
+Dry Grocery Products	Household & Pets Products	Right Aisle_Organic Products	
+
+Device id: 2016-06-17-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 21, 1, Frequency: 2
+Cheese & Charcuterie Counter	Flower Shop	
+
+Device id: 2016-06-18-:-649c1d14-a031-0500-26cd-0e40347b4342
+ 41, 52, 41, Frequency: 2
+Aisle_Household & Pets Products	Wine	Aisle_Household & Pets Products	
+
+Device id: 2016-06-20-:-322d1b03-1933-0500-cfce-4440df8c4a42
+ 3, 3, 5, Frequency: 2
+Health, Beauty & Care	Health, Beauty & Care	Fashion & Textiles	
+
+Device id: 2016-06-21-:-649c1d14-a031-0500-26cd-0e40347b4342
+ 52, 47, 16, Frequency: 2
+Wine	Promotion Products	Corridor_Toys, Sports & DIY	
+
+ 29, 25, Frequency: 2
+Fruit & Vegetables	Left Aisle_Fish Counter	
+
+Device id: 2016-06-22-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 20, 30, 29, 30, Frequency: 3
+Corridor_Cheese & Charcuterie Counter	Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	
+
+ 3, 2, 3, Frequency: 2
+Health, Beauty & Care	Pharmacy	Health, Beauty & Care	
+
+ 4, 51, 50, 1, Frequency: 2
+Corridor_Health	Entrance	Outside Store	Flower Shop	
+
+Device id: 2016-06-25-:-322d1b03-1933-0500-cfce-4440df8c4a42
+ 47, 51, 47, 51, 47, Frequency: 2
+Promotion Products	Entrance	Promotion Products	Entrance	Promotion Products	
+
+Device id: 2016-06-25-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 51, 47, 51, 47, 4, Frequency: 2
+Entrance	Promotion Products	Entrance	Promotion Products	Corridor_Health	
+
+Device id: 2016-06-25-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 49, 48, 49, 51, 47, 51, Frequency: 2
+Corridor_Check Out	Check Out	Corridor_Check Out	Entrance	Promotion Products	Entrance	
+
+Device id: 2016-06-28-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 52, 39, 47, 39, Frequency: 2
+Wine	Household & Pets Products	Promotion Products	Household & Pets Products	
+
+Device id: 2016-06-28-:-9331006a-1933-0500-92ce-4440dc8c4a42
+ 25, 23, 24, Frequency: 2
+Left Aisle_Fish Counter	Fish Counter	Right Aisle_Fish Counter	
+
+ 26, 28, 32, Frequency: 2
+Frozen Deli & Dairy	Left Aisle_Frozen Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+ 49, 28, 49, Frequency: 2
+Corridor_Check Out	Left Aisle_Frozen Deli & Dairy	Corridor_Check Out	
+
+Device id: 2016-06-28-:-d2c06959-1933-0500-0ccf-4440e18c4a42
+ 42, 49, 48, Frequency: 3
+Dry Grocery Products	Corridor_Check Out	Check Out	
+
+ 49, 1, 47, Frequency: 2
+Corridor_Check Out	Flower Shop	Promotion Products	
+
+ 48, 42, 49, Frequency: 2
+Check Out	Dry Grocery Products	Corridor_Check Out	
+
+ 48, 1, 48, Frequency: 2
+Check Out	Flower Shop	Check Out	
+
+ 9, 8, 6, Frequency: 2
+Aisle_Household	Corridor_Small Household	Corridor_Fashion & Textiles	
+
+ 49, 51, 47, Frequency: 2
+Corridor_Check Out	Entrance	Promotion Products	
+
+ 12, 10, 12, Frequency: 2
+Corridor_Books & Stationary	Corridor_Home Appliances	Corridor_Books & Stationary	
+
+Device id: 2016-06-28-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 30, 32, 31, 32, 31, 32, Frequency: 2
+Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+ 43, 42, 47, Frequency: 2
+Corridor_Dry Grocery Products	Dry Grocery Products	Promotion Products	
+
+Device id: 2016-06-29-:-01cf3ec6-8631-0500-b8ce-0e40237b4342
+ 32, 38, 37, 38, 37, 38, 37, 38, 37, 38, 37, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Snack Counter	
+
+ 24, 23, 25, 27, Frequency: 2
+Right Aisle_Fish Counter	Fish Counter	Left Aisle_Fish Counter	Right Aisle_Frozen Deli & Dairy	
+
+ 35, 32, Frequency: 2
+Regional Products	Neighboring_Chilled Deli & Dairy	
+
+ 47, 18, 40, Frequency: 2
+Promotion Products	Corridor_Beverages	Corridor_Household & Pets Products	
+
+ 31, 32, 30, Frequency: 2
+Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+ 26, 31, 32, Frequency: 2
+Frozen Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-06-30-:-01cf3ec6-8631-0500-b8ce-0e40237b4342
+ 20, 30, 20, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Neighboring_Fruit & Vegetables	Corridor_Cheese & Charcuterie Counter	
+
+Device id: 2016-07-02-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 28, 26, 31, Frequency: 2
+Left Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	Chilled Deli & Dairy	
+
+ 13, 12, 9, Frequency: 2
+Books & Stationary	Corridor_Books & Stationary	Aisle_Household	
+
+ 42, 47, 42, Frequency: 2
+Dry Grocery Products	Promotion Products	Dry Grocery Products	
+
+Device id: 2016-07-05-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 30, 29, 30, 32, 31, Frequency: 2
+Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	
+
+ 16, 17, 16, 47, 41, Frequency: 2
+Corridor_Toys, Sports & DIY	Toys, Sports & DIY	Corridor_Toys, Sports & DIY	Promotion Products	Aisle_Household & Pets Products	
+
+ 18, 41, Frequency: 2
+Corridor_Beverages	Aisle_Household & Pets Products	
+
+ 42, 39, 52, 40, Frequency: 2
+Dry Grocery Products	Household & Pets Products	Wine	Corridor_Household & Pets Products	
+
+Device id: 2016-07-05-:-649c1d14-a031-0500-26cd-0e40347b4342
+ 18, 19, 21, 19, Frequency: 2
+Corridor_Beverages	Beverages	Cheese & Charcuterie Counter	Beverages	
+
+Device id: 2016-07-05-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 51, 3, 4, Frequency: 2
+Entrance	Health, Beauty & Care	Corridor_Health	
+
+ 29, 23, 29, Frequency: 3
+Fruit & Vegetables	Fish Counter	Fruit & Vegetables	
+
+Device id: 2016-07-06-:-79788731-c932-0500-14ce-4440e28c4a42
+ 51, 47, 42, Frequency: 2
+Entrance	Promotion Products	Dry Grocery Products	
+
+ 32, 38, 37, 38, 32, 49, 48, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Neighboring_Chilled Deli & Dairy	Corridor_Check Out	Check Out	
+
+ 47, 9, 8, Frequency: 2
+Promotion Products	Aisle_Household	Corridor_Small Household	
+
+Device id: 2016-07-07-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 14, 16, 47, Frequency: 2
+Corridor_Seasonal Non-Food	Corridor_Toys, Sports & DIY	Promotion Products	
+
+ 30, 32, 31, 32, 31, Frequency: 2
+Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	
+
+Device id: 2016-07-07-:-d2c06959-1933-0500-0ccf-4440e18c4a42
+ 24, 20, 21, 20, Frequency: 2
+Right Aisle_Fish Counter	Corridor_Cheese & Charcuterie Counter	Cheese & Charcuterie Counter	Corridor_Cheese & Charcuterie Counter	
+
+ 19, 18, 47, 40, Frequency: 2
+Beverages	Corridor_Beverages	Promotion Products	Corridor_Household & Pets Products	
+
+Device id: 2016-07-09-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 20, 21, 20, 22, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Cheese & Charcuterie Counter	Corridor_Cheese & Charcuterie Counter	Meat Counter	
+
+Device id: 2016-07-09-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 42, 47, 39, Frequency: 2
+Dry Grocery Products	Promotion Products	Household & Pets Products	
+
+Device id: 2016-07-09-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 19, 18, 40, Frequency: 2
+Beverages	Corridor_Beverages	Corridor_Household & Pets Products	
+
+ 7, 8, 9, 12, 13, Frequency: 3
+Small Household Goods	Corridor_Small Household	Aisle_Household	Corridor_Books & Stationary	Books & Stationary	
+
+ 3, 4, 3, 4, Frequency: 2
+Health, Beauty & Care	Corridor_Health	Health, Beauty & Care	Corridor_Health	
+
+Device id: 2016-07-11-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 39, 47, 8, 7, 5, Frequency: 2
+Household & Pets Products	Promotion Products	Corridor_Small Household	Small Household Goods	Fashion & Textiles	
+
+ 39, 52, 40, 18, 19, Frequency: 2
+Household & Pets Products	Wine	Corridor_Household & Pets Products	Corridor_Beverages	Beverages	
+
+Device id: 2016-07-11-:-af807357-1933-0500-42ce-4440dd8c4a42
+ 51, 48, 50, Frequency: 2
+Entrance	Check Out	Outside Store	
+
+Device id: 2016-07-12-:-1c7580d0-1833-0500-24ce-4440dd8c4a42
+ 16, 18, 19, 18, Frequency: 2
+Corridor_Toys, Sports & DIY	Corridor_Beverages	Beverages	Corridor_Beverages	
+
+ 27, 25, 23, 25, 27, 32, Frequency: 2
+Right Aisle_Frozen Deli & Dairy	Left Aisle_Fish Counter	Fish Counter	Left Aisle_Fish Counter	Right Aisle_Frozen Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-07-12-:-1d9675be-a432-0500-fdcd-4440e08c4a42
+ 52, 40, 18, Frequency: 2
+Wine	Corridor_Household & Pets Products	Corridor_Beverages	
+
+ 20, 21, 22, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Cheese & Charcuterie Counter	Meat Counter	
+
+ 23, 24, 30, Frequency: 2
+Fish Counter	Right Aisle_Fish Counter	Neighboring_Fruit & Vegetables	
+
+ 14, 47, 16, Frequency: 2
+Corridor_Seasonal Non-Food	Promotion Products	Corridor_Toys, Sports & DIY	
+
+Device id: 2016-07-12-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 4, 6, 4, Frequency: 2
+Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	
+
+Device id: 2016-07-12-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 52, 39, 52, 39, Frequency: 2
+Wine	Household & Pets Products	Wine	Household & Pets Products	
+
+Device id: 2016-07-12-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 47, 18, 20, 24, Frequency: 2
+Promotion Products	Corridor_Beverages	Corridor_Cheese & Charcuterie Counter	Right Aisle_Fish Counter	
+
+Device id: 2016-07-13-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 44, 46, Frequency: 2
+Organic Products	Left Aisle_Organic Products	
+
+Device id: 2016-07-14-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 31, 26, 27, Frequency: 2
+Chilled Deli & Dairy	Frozen Deli & Dairy	Right Aisle_Frozen Deli & Dairy	
+
+ 42, 39, 52, 39, 52, Frequency: 2
+Dry Grocery Products	Household & Pets Products	Wine	Household & Pets Products	Wine	
+
+ 30, 29, 30, 29, 30, 32, Frequency: 2
+Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	
+
+ 21, 13, 21, Frequency: 2
+Cheese & Charcuterie Counter	Books & Stationary	Cheese & Charcuterie Counter	
+
+ 13, 21, Frequency: 4
+Books & Stationary	Cheese & Charcuterie Counter	
+
+Device id: 2016-07-19-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 35, 33, Frequency: 2
+Regional Products	Bakery & Patisserie	
+
+ 20, 21, 20, 24, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Cheese & Charcuterie Counter	Corridor_Cheese & Charcuterie Counter	Right Aisle_Fish Counter	
+
+Device id: 2016-07-19-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 47, 42, 47, 39, 47, Frequency: 2
+Promotion Products	Dry Grocery Products	Promotion Products	Household & Pets Products	Promotion Products	
+
+ 46, 44, Frequency: 2
+Left Aisle_Organic Products	Organic Products	
+
+ 44, 26, 44, 45, Frequency: 2
+Organic Products	Frozen Deli & Dairy	Organic Products	Right Aisle_Organic Products	
+
+Device id: 2016-07-27-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 3, 4, 6, 4, 6, 4, 6, 4, 6, 4, 6, Frequency: 2
+Health, Beauty & Care	Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	
+
+ 19, 18, 20, Frequency: 2
+Beverages	Corridor_Beverages	Corridor_Cheese & Charcuterie Counter	
+
+ 34, 22, Frequency: 2
+Corridor_Bakery & Patisserie	Meat Counter	
+
+Device id: 2016-08-20-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 4, 47, 42, 47, Frequency: 2
+Corridor_Health	Promotion Products	Dry Grocery Products	Promotion Products	
+
+Device id: 2016-08-27-:-1c7580d0-1833-0500-24ce-4440dd8c4a42
+ 7, 9, 10, 9, Frequency: 2
+Small Household Goods	Aisle_Household	Corridor_Home Appliances	Aisle_Household	
+
+ 6, 4, 6, 5, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	Fashion & Textiles	
+
+Device id: 2016-08-30-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 20, 22, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Meat Counter	
+
+Device id: 2016-09-06-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 34, 32, 30, Frequency: 2
+Corridor_Bakery & Patisserie	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+ 42, 39, 42, Frequency: 2
+Dry Grocery Products	Household & Pets Products	Dry Grocery Products	
+
+ 42, 42, 42, 42, 39, 42, Frequency: 2
+Dry Grocery Products	Dry Grocery Products	Dry Grocery Products	Dry Grocery Products	Household & Pets Products	Dry Grocery Products	
+
+Device id: 2016-09-07-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 38, 49, Frequency: 3
+Corridor_Snack Counter	Corridor_Check Out	
+
+ 16, 47, 40, 24, 20, Frequency: 2
+Corridor_Toys, Sports & DIY	Promotion Products	Corridor_Household & Pets Products	Right Aisle_Fish Counter	Corridor_Cheese & Charcuterie Counter	
+
+ 30, 34, 33, 30, 29, Frequency: 2
+Neighboring_Fruit & Vegetables	Corridor_Bakery & Patisserie	Bakery & Patisserie	Neighboring_Fruit & Vegetables	Fruit & Vegetables	
+
+ 27, 26, 28, 26, Frequency: 2
+Right Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	Left Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	
+
+ 4, 3, 3, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Health, Beauty & Care	
+
+ 32, 49, 32, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Corridor_Check Out	Neighboring_Chilled Deli & Dairy	
+
+ 6, 5, 6, Frequency: 2
+Corridor_Fashion & Textiles	Fashion & Textiles	Corridor_Fashion & Textiles	
+
+ 52, 25, 52, Frequency: 2
+Wine	Left Aisle_Fish Counter	Wine	
+
+ 33, 35, 36, 32, Frequency: 2
+Bakery & Patisserie	Regional Products	Corridor_Regional Products	Neighboring_Chilled Deli & Dairy	
+
+ 7, 9, 10, Frequency: 2
+Small Household Goods	Aisle_Household	Corridor_Home Appliances	
+
+ 9, 10, 11, 10, Frequency: 2
+Aisle_Household	Corridor_Home Appliances	Home Appliances	Corridor_Home Appliances	
+
+ 5, 8, Frequency: 2
+Fashion & Textiles	Corridor_Small Household	
+
+ 8, 7, 8, 7, 9, Frequency: 2
+Corridor_Small Household	Small Household Goods	Corridor_Small Household	Small Household Goods	Aisle_Household	
+
+ 52, 40, 47, Frequency: 2
+Wine	Corridor_Household & Pets Products	Promotion Products	
+
+ 9, 7, 9, 10, Frequency: 2
+Aisle_Household	Small Household Goods	Aisle_Household	Corridor_Home Appliances	
+
+ 9, 10, 12, Frequency: 2
+Aisle_Household	Corridor_Home Appliances	Corridor_Books & Stationary	
+
+Device id: 2016-09-09-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 8, 7, 9, Frequency: 2
+Corridor_Small Household	Small Household Goods	Aisle_Household	
+
+ 52, 45, 25, 23, Frequency: 2
+Wine	Right Aisle_Organic Products	Left Aisle_Fish Counter	Fish Counter	
+
+Device id: 2016-09-09-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 51, 47, 4, 6, Frequency: 2
+Entrance	Promotion Products	Corridor_Health	Corridor_Fashion & Textiles	
+
+ 7, 8, 6, 4, Frequency: 2
+Small Household Goods	Corridor_Small Household	Corridor_Fashion & Textiles	Corridor_Health	
+
+Device id: 2016-09-09-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 20, 40, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Corridor_Household & Pets Products	
+
+Device id: 2016-09-10-:-649c1d14-a031-0500-26cd-0e40347b4342
+ 4, 3, 4, 47, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Corridor_Health	Promotion Products	
+
+Device id: 2016-09-10-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 42, 47, 4, 6, Frequency: 2
+Dry Grocery Products	Promotion Products	Corridor_Health	Corridor_Fashion & Textiles	
+
+ 37, 50, Frequency: 2
+Snack Counter	Outside Store	
+
+Device id: 2016-09-12-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 1, 51, 47, 4, Frequency: 2
+Flower Shop	Entrance	Promotion Products	Corridor_Health	
+
+ 47, 47, 4, Frequency: 2
+Promotion Products	Promotion Products	Corridor_Health	
+
+Device id: 2016-09-12-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 24, 30, 20, Frequency: 2
+Right Aisle_Fish Counter	Neighboring_Fruit & Vegetables	Corridor_Cheese & Charcuterie Counter	
+
+Device id: 2016-09-12-:-ea3af03f-0332-0500-c9cd-4440eb8c4a42
+ 47, 4, 3, 4, Frequency: 2
+Promotion Products	Corridor_Health	Health, Beauty & Care	Corridor_Health	
+
+ 7, 9, 7, Frequency: 2
+Small Household Goods	Aisle_Household	Small Household Goods	
+
+Device id: 2016-09-13-:-1c7580d0-1833-0500-24ce-4440dd8c4a42
+ 41, 52, 40, Frequency: 2
+Aisle_Household & Pets Products	Wine	Corridor_Household & Pets Products	
+
+ 25, 45, 39, Frequency: 2
+Left Aisle_Fish Counter	Right Aisle_Organic Products	Household & Pets Products	
+
+ 18, 20, 21, Frequency: 2
+Corridor_Beverages	Corridor_Cheese & Charcuterie Counter	Cheese & Charcuterie Counter	
+
+Device id: 2016-09-13-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 6, 5, 3, Frequency: 2
+Corridor_Fashion & Textiles	Fashion & Textiles	Health, Beauty & Care	
+
+Device id: 2016-09-13-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 47, 8, 7, 5, Frequency: 2
+Promotion Products	Corridor_Small Household	Small Household Goods	Fashion & Textiles	
+
+Device id: 2016-09-14-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 4, 3, 4, 6, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Corridor_Health	Corridor_Fashion & Textiles	
+
+Device id: 2016-09-14-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 22, 20, 30, Frequency: 2
+Meat Counter	Corridor_Cheese & Charcuterie Counter	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-09-14-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 6, 47, 6, 47, Frequency: 2
+Corridor_Fashion & Textiles	Promotion Products	Corridor_Fashion & Textiles	Promotion Products	
+
+Device id: 2016-09-15-:-79788731-c932-0500-14ce-4440e28c4a42
+ 42, 47, 43, 51, Frequency: 2
+Dry Grocery Products	Promotion Products	Corridor_Dry Grocery Products	Entrance	
+
+Device id: 2016-09-15-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 47, 42, 39, 52, Frequency: 2
+Promotion Products	Dry Grocery Products	Household & Pets Products	Wine	
+
+ 32, 38, 37, 38, 32, 38, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Neighboring_Chilled Deli & Dairy	Corridor_Snack Counter	
+
+ 47, 8, 6, Frequency: 2
+Promotion Products	Corridor_Small Household	Corridor_Fashion & Textiles	
+
+ 23, 29, 25, Frequency: 2
+Fish Counter	Fruit & Vegetables	Left Aisle_Fish Counter	
+
+ 27, 26, 28, Frequency: 2
+Right Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	Left Aisle_Frozen Deli & Dairy	
+
+ 49, 47, 51, Frequency: 2
+Corridor_Check Out	Promotion Products	Entrance	
+
+ 47, 18, 19, Frequency: 2
+Promotion Products	Corridor_Beverages	Beverages	
+
+Device id: 2016-09-15-:-9332c459-1a33-0500-21cf-4440e38c4a42
+ 48, 32, Frequency: 2
+Check Out	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-09-15-:-d4adb0f1-1833-0500-a6ce-4440db8c4a42
+ 47, 18, 47, Frequency: 2
+Promotion Products	Corridor_Beverages	Promotion Products	
+
+ 47, 8, 7, Frequency: 4
+Promotion Products	Corridor_Small Household	Small Household Goods	
+
+Device id: 2016-09-16-:-1d9675be-a432-0500-fdcd-4440e08c4a42
+ 1, 50, 1, 51, Frequency: 2
+Flower Shop	Outside Store	Flower Shop	Entrance	
+
+Device id: 2016-09-16-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 49, 46, 28, 46, Frequency: 2
+Corridor_Check Out	Left Aisle_Organic Products	Left Aisle_Frozen Deli & Dairy	Left Aisle_Organic Products	
+
+Device id: 2016-09-16-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 20, 22, 21, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Meat Counter	Cheese & Charcuterie Counter	
+
+ 42, 46, Frequency: 2
+Dry Grocery Products	Left Aisle_Organic Products	
+
+ 18, 40, 18, Frequency: 2
+Corridor_Beverages	Corridor_Household & Pets Products	Corridor_Beverages	
+
+Device id: 2016-09-16-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 1, 51, 4, Frequency: 2
+Flower Shop	Entrance	Corridor_Health	
+
+Device id: 2016-09-16-:-8fff1a75-1933-0500-52ce-4440e08c4a42
+ 9, 14, Frequency: 2
+Aisle_Household	Corridor_Seasonal Non-Food	
+
+ 34, 33, 35, 37, 38, Frequency: 2
+Corridor_Bakery & Patisserie	Bakery & Patisserie	Regional Products	Snack Counter	Corridor_Snack Counter	
+
+ 47, 8, 47, 8, Frequency: 2
+Promotion Products	Corridor_Small Household	Promotion Products	Corridor_Small Household	
+
+ 47, 6, 5, 6, Frequency: 2
+Promotion Products	Corridor_Fashion & Textiles	Fashion & Textiles	Corridor_Fashion & Textiles	
+
+ 49, 47, 43, Frequency: 2
+Corridor_Check Out	Promotion Products	Corridor_Dry Grocery Products	
+
+Device id: 2016-09-16-:-d4adb0f1-1833-0500-a6ce-4440db8c4a42
+ 25, 52, 45, Frequency: 2
+Left Aisle_Fish Counter	Wine	Right Aisle_Organic Products	
+
+ 31, 32, 30, 29, Frequency: 2
+Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Fruit & Vegetables	
+
+ 24, 20, 18, 19, 18, Frequency: 2
+Right Aisle_Fish Counter	Corridor_Cheese & Charcuterie Counter	Corridor_Beverages	Beverages	Corridor_Beverages	
+
+ 37, 48, Frequency: 2
+Snack Counter	Check Out	
+
+ 8, 9, 12, Frequency: 2
+Corridor_Small Household	Aisle_Household	Corridor_Books & Stationary	
+
+ 4, 6, 5, 6, 8, 47, Frequency: 2
+Corridor_Health	Corridor_Fashion & Textiles	Fashion & Textiles	Corridor_Fashion & Textiles	Corridor_Small Household	Promotion Products	
+
+ 30, 20, 21, 20, Frequency: 2
+Neighboring_Fruit & Vegetables	Corridor_Cheese & Charcuterie Counter	Cheese & Charcuterie Counter	Corridor_Cheese & Charcuterie Counter	
+
+ 25, 27, 32, Frequency: 2
+Left Aisle_Fish Counter	Right Aisle_Frozen Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-09-17-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 8, 47, 39, 52, Frequency: 2
+Corridor_Small Household	Promotion Products	Household & Pets Products	Wine	
+
+ 49, 28, 26, Frequency: 2
+Corridor_Check Out	Left Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	
+
+ 39, 42, 39, 47, Frequency: 2
+Household & Pets Products	Dry Grocery Products	Household & Pets Products	Promotion Products	
+
+ 34, 33, 35, Frequency: 3
+Corridor_Bakery & Patisserie	Bakery & Patisserie	Regional Products	
+
+ 30, 32, 30, 32, 30, Frequency: 2
+Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+ 33, 34, 32, 30, Frequency: 2
+Bakery & Patisserie	Corridor_Bakery & Patisserie	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+ 37, 35, Frequency: 3
+Snack Counter	Regional Products	
+
+ 18, 20, 24, 23, Frequency: 2
+Corridor_Beverages	Corridor_Cheese & Charcuterie Counter	Right Aisle_Fish Counter	Fish Counter	
+
+ 47, 6, 8, 6, 8, Frequency: 2
+Promotion Products	Corridor_Fashion & Textiles	Corridor_Small Household	Corridor_Fashion & Textiles	Corridor_Small Household	
+
+ 8, 47, 14, 16, Frequency: 2
+Corridor_Small Household	Promotion Products	Corridor_Seasonal Non-Food	Corridor_Toys, Sports & DIY	
+
+ 7, 8, 7, 8, 8, Frequency: 2
+Small Household Goods	Corridor_Small Household	Small Household Goods	Corridor_Small Household	Corridor_Small Household	
+
+ 30, 29, 30, 29, Frequency: 2
+Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	Fruit & Vegetables	
+
+ 51, 50, 51, 4, 3, Frequency: 2
+Entrance	Outside Store	Entrance	Corridor_Health	Health, Beauty & Care	
+
+ 52, 25, Frequency: 3
+Wine	Left Aisle_Fish Counter	
+
+ 32, 28, 49, Frequency: 3
+Neighboring_Chilled Deli & Dairy	Left Aisle_Frozen Deli & Dairy	Corridor_Check Out	
+
+Device id: 2016-09-17-:-79788731-c932-0500-14ce-4440e28c4a42
+ 6, 8, 8, 6, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Small Household	Corridor_Small Household	Corridor_Fashion & Textiles	
+
+ 6, 8, 6, 8, 6, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Small Household	Corridor_Fashion & Textiles	Corridor_Small Household	Corridor_Fashion & Textiles	
+
+ 25, 45, 52, Frequency: 2
+Left Aisle_Fish Counter	Right Aisle_Organic Products	Wine	
+
+ 8, 6, 8, Frequency: 2
+Corridor_Small Household	Corridor_Fashion & Textiles	Corridor_Small Household	
+
+ 27, 26, 27, Frequency: 2
+Right Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	Right Aisle_Frozen Deli & Dairy	
+
+ 49, 47, 43, 47, 43, 47, 43, Frequency: 2
+Corridor_Check Out	Promotion Products	Corridor_Dry Grocery Products	Promotion Products	Corridor_Dry Grocery Products	Promotion Products	Corridor_Dry Grocery Products	
+
+ 26, 32, Frequency: 2
+Frozen Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+ 38, 32, 31, 32, Frequency: 2
+Corridor_Snack Counter	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+ 39, 47, 47, Frequency: 2
+Household & Pets Products	Promotion Products	Promotion Products	
+
+ 30, 25, 27, Frequency: 2
+Neighboring_Fruit & Vegetables	Left Aisle_Fish Counter	Right Aisle_Frozen Deli & Dairy	
+
+ 28, 26, 27, Frequency: 2
+Left Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	Right Aisle_Frozen Deli & Dairy	
+
+ 28, 44, Frequency: 2
+Left Aisle_Frozen Deli & Dairy	Organic Products	
+
+ 44, 45, 44, 45, 39, Frequency: 2
+Organic Products	Right Aisle_Organic Products	Organic Products	Right Aisle_Organic Products	Household & Pets Products	
+
+ 6, 8, 7, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Small Household	Small Household Goods	
+
+ 10, 11, 10, Frequency: 2
+Corridor_Home Appliances	Home Appliances	Corridor_Home Appliances	
+
+Device id: 2016-09-17-:-84aeee80-1833-0500-17ce-4440e58c4a42
+ 42, 46, 49, Frequency: 2
+Dry Grocery Products	Left Aisle_Organic Products	Corridor_Check Out	
+
+Device id: 2016-09-17-:-9bdbf288-a131-0500-05ce-0e40227b4342
+ 40, 47, 18, Frequency: 3
+Corridor_Household & Pets Products	Promotion Products	Corridor_Beverages	
+
+ 9, 47, 14, Frequency: 2
+Aisle_Household	Promotion Products	Corridor_Seasonal Non-Food	
+
+Device id: 2016-09-17-:-e22c5e98-a432-0500-47ce-4440df8c4a42
+ 7, 8, 47, 39, Frequency: 2
+Small Household Goods	Corridor_Small Household	Promotion Products	Household & Pets Products	
+
+Device id: 2016-09-19-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 3, 1, 3, Frequency: 2
+Health, Beauty & Care	Flower Shop	Health, Beauty & Care	
+
+ 49, 42, Frequency: 2
+Corridor_Check Out	Dry Grocery Products	
+
+Device id: 2016-09-19-:-84aeee80-1833-0500-17ce-4440e58c4a42
+ 6, 47, 42, 39, Frequency: 2
+Corridor_Fashion & Textiles	Promotion Products	Dry Grocery Products	Household & Pets Products	
+
+Device id: 2016-09-20-:-84aeee80-1833-0500-17ce-4440e58c4a42
+ 3, 5, 6, Frequency: 2
+Health, Beauty & Care	Fashion & Textiles	Corridor_Fashion & Textiles	
+
+ 5, 3, 5, 3, Frequency: 2
+Fashion & Textiles	Health, Beauty & Care	Fashion & Textiles	Health, Beauty & Care	
+
+ 51, 1, 50, 1, Frequency: 2
+Entrance	Flower Shop	Outside Store	Flower Shop	
+
+Device id: 2016-09-21-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 3, 5, 3, 4, Frequency: 2
+Health, Beauty & Care	Fashion & Textiles	Health, Beauty & Care	Corridor_Health	
+
+Device id: 2016-09-21-:-84aeee80-1833-0500-17ce-4440e58c4a42
+ 39, 42, 47, Frequency: 2
+Household & Pets Products	Dry Grocery Products	Promotion Products	
+
+Device id: 2016-09-23-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 47, 39, 42, Frequency: 2
+Promotion Products	Household & Pets Products	Dry Grocery Products	
+
+Device id: 2016-09-23-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 30, 22, 30, Frequency: 2
+Neighboring_Fruit & Vegetables	Meat Counter	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-09-27-:-84aeee80-1833-0500-17ce-4440e58c4a42
+ 4, 47, 6, Frequency: 2
+Corridor_Health	Promotion Products	Corridor_Fashion & Textiles	
+
+Device id: 2016-09-27-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 4, 6, 8, Frequency: 2
+Corridor_Health	Corridor_Fashion & Textiles	Corridor_Small Household	
+
+Device id: 2016-09-27-:-af807357-1933-0500-42ce-4440dd8c4a42
+ 31, 32, 30, 32, 30, Frequency: 2
+Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-09-29-:-82e0185b-1933-0500-5dce-4440dc8c4a42
+ 51, 47, 43, Frequency: 2
+Entrance	Promotion Products	Corridor_Dry Grocery Products	
+
+ 43, 47, 4, 3, 5, Frequency: 2
+Corridor_Dry Grocery Products	Promotion Products	Corridor_Health	Health, Beauty & Care	Fashion & Textiles	
+
+Device id: 2016-09-29-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 17, 15, 13, Frequency: 2
+Toys, Sports & DIY	Seasonal Non-Food	Books & Stationary	
+
+ 52, 23, 52, Frequency: 2
+Wine	Fish Counter	Wine	
+
+ 43, 42, 43, 47, Frequency: 2
+Corridor_Dry Grocery Products	Dry Grocery Products	Corridor_Dry Grocery Products	Promotion Products	
+
+Device id: 2016-09-30-:-d4adb0f1-1833-0500-a6ce-4440db8c4a42
+ 49, 47, 49, 47, 43, Frequency: 2
+Corridor_Check Out	Promotion Products	Corridor_Check Out	Promotion Products	Corridor_Dry Grocery Products	
+
+ 49, 47, 47, Frequency: 2
+Corridor_Check Out	Promotion Products	Promotion Products	
+
+Device id: 2016-10-01-:-8802ca2d-0032-0500-909f-4440a7884a42
+ 23, 29, 23, 29, 30, 32, 31, Frequency: 2
+Fish Counter	Fruit & Vegetables	Fish Counter	Fruit & Vegetables	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	
+
+ 47, 14, 9, Frequency: 2
+Promotion Products	Corridor_Seasonal Non-Food	Aisle_Household	
+
+ 12, 9, 47, Frequency: 2
+Corridor_Books & Stationary	Aisle_Household	Promotion Products	
+
+Device id: 2016-10-01-:-af807357-1933-0500-42ce-4440dd8c4a42
+ 3, 1, Frequency: 2
+Health, Beauty & Care	Flower Shop	
+
+ 32, 38, 37, 38, 37, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Snack Counter	
+
+ 30, 24, Frequency: 2
+Neighboring_Fruit & Vegetables	Right Aisle_Fish Counter	
+
+ 32, 30, 32, 31, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	
+
+ 19, 18, 47, Frequency: 2
+Beverages	Corridor_Beverages	Promotion Products	
+
+ 24, 23, 25, Frequency: 2
+Right Aisle_Fish Counter	Fish Counter	Left Aisle_Fish Counter	
+
+ 32, 30, 25, 30, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Left Aisle_Fish Counter	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-10-01-:-d4adb0f1-1833-0500-a6ce-4440db8c4a42
+ 50, 48, 50, Frequency: 2
+Outside Store	Check Out	Outside Store	
+
+Device id: 2016-10-11-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 42, 39, 52, 39, Frequency: 3
+Dry Grocery Products	Household & Pets Products	Wine	Household & Pets Products	
+
+Device id: 2016-10-12-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 22, 20, Frequency: 3
+Meat Counter	Corridor_Cheese & Charcuterie Counter	
+
+Device id: 2016-10-12-:-79788731-c932-0500-14ce-4440e28c4a42
+ 18, 40, 18, 19, Frequency: 2
+Corridor_Beverages	Corridor_Household & Pets Products	Corridor_Beverages	Beverages	
+
+ 23, 24, 40, Frequency: 2
+Fish Counter	Right Aisle_Fish Counter	Corridor_Household & Pets Products	
+
+Device id: 2016-10-12-:-af807357-1933-0500-42ce-4440dd8c4a42
+ 51, 50, 1, Frequency: 2
+Entrance	Outside Store	Flower Shop	
+
+Device id: 2016-10-13-:-79788731-c932-0500-14ce-4440e28c4a42
+ 47, 43, 51, 49, Frequency: 2
+Promotion Products	Corridor_Dry Grocery Products	Entrance	Corridor_Check Out	
+
+ 49, 49, 47, 49, 47, Frequency: 2
+Corridor_Check Out	Corridor_Check Out	Promotion Products	Corridor_Check Out	Promotion Products	
+
+Device id: 2016-10-14-:-f49c1777-1933-0500-d5ce-4440e08c4a42
+ 30, 32, 31, 32, Frequency: 2
+Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-10-15-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 47, 39, 41, 39, Frequency: 2
+Promotion Products	Household & Pets Products	Aisle_Household & Pets Products	Household & Pets Products	
+
+ 17, 16, 18, Frequency: 2
+Toys, Sports & DIY	Corridor_Toys, Sports & DIY	Corridor_Beverages	
+
+ 6, 8, 6, 5, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Small Household	Corridor_Fashion & Textiles	Fashion & Textiles	
+
+ 6, 4, 6, 4, 6, 4, 6, 4, 47, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	Corridor_Fashion & Textiles	Corridor_Health	Promotion Products	
+
+Device id: 2016-10-15-:-9331006a-1933-0500-92ce-4440dc8c4a42
+ 47, 43, 42, 43, Frequency: 2
+Promotion Products	Corridor_Dry Grocery Products	Dry Grocery Products	Corridor_Dry Grocery Products	
+
+ 30, 32, 27, 26, Frequency: 2
+Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Right Aisle_Frozen Deli & Dairy	Frozen Deli & Dairy	
+
+Device id: 2016-10-18-:-ccb7d00b-c328-0500-cfeb-4440178c4a42
+ 23, 29, 30, 32, 30, Frequency: 2
+Fish Counter	Fruit & Vegetables	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-10-19-:-ee3ea0cb-c228-0500-80ee-4440518c4a42
+ 21, 13, Frequency: 3
+Cheese & Charcuterie Counter	Books & Stationary	
+
+ 29, 30, 32, 31, Frequency: 2
+Fruit & Vegetables	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	
+
+ 31, 30, Frequency: 2
+Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+ 47, 16, 18, Frequency: 2
+Promotion Products	Corridor_Toys, Sports & DIY	Corridor_Beverages	
+
+ 39, 41, 47, Frequency: 4
+Household & Pets Products	Aisle_Household & Pets Products	Promotion Products	
+
+Device id: 2016-10-20-:-ccb7d00b-c328-0500-cfeb-4440178c4a42
+ 17, 15, 17, Frequency: 2
+Toys, Sports & DIY	Seasonal Non-Food	Toys, Sports & DIY	
+
+ 17, 15, 17, 15, 17, 15, 17, 15, 17, 15, 13, Frequency: 2
+Toys, Sports & DIY	Seasonal Non-Food	Toys, Sports & DIY	Seasonal Non-Food	Toys, Sports & DIY	Seasonal Non-Food	Toys, Sports & DIY	Seasonal Non-Food	Toys, Sports & DIY	Seasonal Non-Food	Books & Stationary	
+
+Device id: 2016-10-21-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 13, 15, 17, Frequency: 2
+Books & Stationary	Seasonal Non-Food	Toys, Sports & DIY	
+
+ 6, 8, 7, 9, 12, Frequency: 2
+Corridor_Fashion & Textiles	Corridor_Small Household	Small Household Goods	Aisle_Household	Corridor_Books & Stationary	
+
+ 10, 9, 10, Frequency: 2
+Corridor_Home Appliances	Aisle_Household	Corridor_Home Appliances	
+
+ 13, 11, Frequency: 4
+Books & Stationary	Home Appliances	
+
+ 43, 49, Frequency: 2
+Corridor_Dry Grocery Products	Corridor_Check Out	
+
+Device id: 2016-10-22-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 24, 30, 24, 23, Frequency: 2
+Right Aisle_Fish Counter	Neighboring_Fruit & Vegetables	Right Aisle_Fish Counter	Fish Counter	
+
+ 32, 31, 32, 30, 32, 30, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+ 47, 8, 47, 8, 47, Frequency: 2
+Promotion Products	Corridor_Small Household	Promotion Products	Corridor_Small Household	Promotion Products	
+
+ 24, 30, 29, 30, Frequency: 2
+Right Aisle_Fish Counter	Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-10-22-:-7185e765-0532-0500-3ece-4440df8c4a42
+ 47, 41, 39, 41, Frequency: 2
+Promotion Products	Aisle_Household & Pets Products	Household & Pets Products	Aisle_Household & Pets Products	
+
+ 3, 43, Frequency: 2
+Health, Beauty & Care	Corridor_Dry Grocery Products	
+
+Device id: 2016-10-22-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 51, 4, 51, 4, 47, Frequency: 2
+Entrance	Corridor_Health	Entrance	Corridor_Health	Promotion Products	
+
+ 51, 48, 50, 51, Frequency: 2
+Entrance	Check Out	Outside Store	Entrance	
+
+ 18, 47, 41, 47, Frequency: 2
+Corridor_Beverages	Promotion Products	Aisle_Household & Pets Products	Promotion Products	
+
+ 14, 15, 14, Frequency: 2
+Corridor_Seasonal Non-Food	Seasonal Non-Food	Corridor_Seasonal Non-Food	
+
+ 51, 4, 47, 51, 4, Frequency: 2
+Entrance	Corridor_Health	Promotion Products	Entrance	Corridor_Health	
+
+ 2, 3, 2, Frequency: 3
+Pharmacy	Health, Beauty & Care	Pharmacy	
+
+ 24, 30, 29, Frequency: 2
+Right Aisle_Fish Counter	Neighboring_Fruit & Vegetables	Fruit & Vegetables	
+
+Device id: 2016-10-22-:-8fff1a75-1933-0500-52ce-4440e08c4a42
+ 20, 30, 24, 20, 18, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Neighboring_Fruit & Vegetables	Right Aisle_Fish Counter	Corridor_Cheese & Charcuterie Counter	Corridor_Beverages	
+
+ 32, 31, 32, 31, 32, 30, 29, 30, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-10-22-:-9332c459-1a33-0500-21cf-4440e38c4a42
+ 6, 47, 42, 47, Frequency: 2
+Corridor_Fashion & Textiles	Promotion Products	Dry Grocery Products	Promotion Products	
+
+ 51, 47, 51, 4, 51, Frequency: 2
+Entrance	Promotion Products	Entrance	Corridor_Health	Entrance	
+
+Device id: 2016-10-22-:-9bdbf288-a131-0500-05ce-0e40227b4342
+ 16, 47, 41, Frequency: 2
+Corridor_Toys, Sports & DIY	Promotion Products	Aisle_Household & Pets Products	
+
+ 40, 18, 19, Frequency: 2
+Corridor_Household & Pets Products	Corridor_Beverages	Beverages	
+
+ 19, 21, 20, Frequency: 2
+Beverages	Cheese & Charcuterie Counter	Corridor_Cheese & Charcuterie Counter	
+
+ 4, 3, 4, 47, 42, 47, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Corridor_Health	Promotion Products	Dry Grocery Products	Promotion Products	
+
+Device id: 2016-10-22-:-beb6c163-1933-0500-a5ce-4440e18c4a42
+ 4, 51, 2, Frequency: 2
+Corridor_Health	Entrance	Pharmacy	
+
+ 51, 48, 51, Frequency: 2
+Entrance	Check Out	Entrance	
+
+ 1, 50, 50, Frequency: 2
+Flower Shop	Outside Store	Outside Store	
+
+Device id: 2016-10-22-:-e22c5e98-a432-0500-47ce-4440df8c4a42
+ 49, 48, 50, 51, Frequency: 2
+Corridor_Check Out	Check Out	Outside Store	Entrance	
+
+ 12, 10, 11, 10, 9, 7, 9, 7, 9, 7, 9, 7, Frequency: 2
+Corridor_Books & Stationary	Corridor_Home Appliances	Home Appliances	Corridor_Home Appliances	Aisle_Household	Small Household Goods	Aisle_Household	Small Household Goods	Aisle_Household	Small Household Goods	Aisle_Household	Small Household Goods	
+
+Device id: 2016-10-24-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 51, 2, 3, Frequency: 2
+Entrance	Pharmacy	Health, Beauty & Care	
+
+ 47, 51, 4, 51, 47, 51, 47, 51, 47, Frequency: 2
+Promotion Products	Entrance	Corridor_Health	Entrance	Promotion Products	Entrance	Promotion Products	Entrance	Promotion Products	
+
+ 51, 4, 51, 47, 51, 47, Frequency: 2
+Entrance	Corridor_Health	Entrance	Promotion Products	Entrance	Promotion Products	
+
+ 4, 4, 47, Frequency: 2
+Corridor_Health	Corridor_Health	Promotion Products	
+
+ 3, 51, Frequency: 2
+Health, Beauty & Care	Entrance	
+
+Device id: 2016-10-24-:-8802ca2d-0032-0500-909f-4440a7884a42
+ 28, 46, 49, Frequency: 2
+Left Aisle_Frozen Deli & Dairy	Left Aisle_Organic Products	Corridor_Check Out	
+
+ 47, 42, 47, 39, 41, Frequency: 2
+Promotion Products	Dry Grocery Products	Promotion Products	Household & Pets Products	Aisle_Household & Pets Products	
+
+Device id: 2016-10-24-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 47, 51, 4, 51, 4, 51, 4, Frequency: 2
+Promotion Products	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+ 51, 48, 51, 4, Frequency: 2
+Entrance	Check Out	Entrance	Corridor_Health	
+
+ 43, 48, 51, Frequency: 2
+Corridor_Dry Grocery Products	Check Out	Entrance	
+
+ 47, 4, 47, 51, Frequency: 2
+Promotion Products	Corridor_Health	Promotion Products	Entrance	
+
+ 47, 51, 4, 51, 4, Frequency: 2
+Promotion Products	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+ 51, 2, 1, Frequency: 2
+Entrance	Pharmacy	Flower Shop	
+
+ 51, 4, 4, 51, 4, Frequency: 2
+Entrance	Corridor_Health	Corridor_Health	Entrance	Corridor_Health	
+
+ 4, 4, 51, 4, 51, 4, Frequency: 2
+Corridor_Health	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+ 3, 51, 4, 51, Frequency: 3
+Health, Beauty & Care	Entrance	Corridor_Health	Entrance	
+
+ 2, 3, 5, Frequency: 2
+Pharmacy	Health, Beauty & Care	Fashion & Textiles	
+
+ 51, 51, 4, 51, 4, 51, 4, 51, 4, 51, 4, Frequency: 2
+Entrance	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+ 4, 51, 4, 51, 4, 51, 4, 51, 4, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+Device id: 2016-10-24-:-af807357-1933-0500-42ce-4440dd8c4a42
+ 4, 51, 4, 47, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Promotion Products	
+
+Device id: 2016-10-24-:-d2c06959-1933-0500-0ccf-4440e18c4a42
+ 51, 4, 51, 4, 51, 4, 51, 4, 47, Frequency: 2
+Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Promotion Products	
+
+Device id: 2016-10-25-:-8802ca2d-0032-0500-909f-4440a7884a42
+ 46, 49, 42, Frequency: 2
+Left Aisle_Organic Products	Corridor_Check Out	Dry Grocery Products	
+
+ 9, 12, 10, 11, 13, 12, Frequency: 2
+Aisle_Household	Corridor_Books & Stationary	Corridor_Home Appliances	Home Appliances	Books & Stationary	Corridor_Books & Stationary	
+
+ 20, 21, 22, 21, 22, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Cheese & Charcuterie Counter	Meat Counter	Cheese & Charcuterie Counter	Meat Counter	
+
+Device id: 2016-10-25-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 43, 47, 51, Frequency: 2
+Corridor_Dry Grocery Products	Promotion Products	Entrance	
+
+ 4, 3, 51, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Entrance	
+
+ 4, 51, 4, 51, 47, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Entrance	Promotion Products	
+
+ 50, 50, 4, Frequency: 2
+Outside Store	Outside Store	Corridor_Health	
+
+ 51, 4, 51, 4, 3, 51, Frequency: 2
+Entrance	Corridor_Health	Entrance	Corridor_Health	Health, Beauty & Care	Entrance	
+
+ 4, 3, 2, 51, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Pharmacy	Entrance	
+
+ 47, 43, 51, Frequency: 2
+Promotion Products	Corridor_Dry Grocery Products	Entrance	
+
+ 4, 3, 2, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Pharmacy	
+
+ 43, 42, 51, Frequency: 2
+Corridor_Dry Grocery Products	Dry Grocery Products	Entrance	
+
+ 4, 51, 4, 51, 47, 4, 51, 4, 51, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Entrance	Promotion Products	Corridor_Health	Entrance	Corridor_Health	Entrance	
+
+Device id: 2016-10-25-:-9332c459-1a33-0500-21cf-4440e38c4a42
+ 51, 43, Frequency: 2
+Entrance	Corridor_Dry Grocery Products	
+
+ 1, 2, 3, Frequency: 2
+Flower Shop	Pharmacy	Health, Beauty & Care	
+
+ 4, 47, 51, 47, Frequency: 2
+Corridor_Health	Promotion Products	Entrance	Promotion Products	
+
+ 4, 3, 4, 3, 4, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Corridor_Health	Health, Beauty & Care	Corridor_Health	
+
+ 4, 51, 47, 51, 47, 51, 47, 51, Frequency: 2
+Corridor_Health	Entrance	Promotion Products	Entrance	Promotion Products	Entrance	Promotion Products	Entrance	
+
+ 4, 51, 48, Frequency: 2
+Corridor_Health	Entrance	Check Out	
+
+ 4, 3, 4, 3, 2, 3, Frequency: 2
+Corridor_Health	Health, Beauty & Care	Corridor_Health	Health, Beauty & Care	Pharmacy	Health, Beauty & Care	
+
+Device id: 2016-10-25-:-beb6c163-1933-0500-a5ce-4440e18c4a42
+ 43, 4, Frequency: 3
+Corridor_Dry Grocery Products	Corridor_Health	
+
+Device id: 2016-10-25-:-c275058f-9132-0500-c8ce-4440df8c4a42
+ 51, 4, 4, 51, 4, 51, 4, Frequency: 2
+Entrance	Corridor_Health	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	
+
+ 51, 4, 51, 4, 4, 51, Frequency: 2
+Entrance	Corridor_Health	Entrance	Corridor_Health	Corridor_Health	Entrance	
+
+ 51, 51, 4, 51, 4, 51, Frequency: 2
+Entrance	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	
+
+Device id: 2016-10-25-:-ccb7d00b-c328-0500-cfeb-4440178c4a42
+ 26, 31, 32, 31, 26, 31, Frequency: 2
+Frozen Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Frozen Deli & Dairy	Chilled Deli & Dairy	
+
+ 47, 43, 42, 43, 47, Frequency: 2
+Promotion Products	Corridor_Dry Grocery Products	Dry Grocery Products	Corridor_Dry Grocery Products	Promotion Products	
+
+ 49, 47, 43, 47, 43, 42, Frequency: 2
+Corridor_Check Out	Promotion Products	Corridor_Dry Grocery Products	Promotion Products	Corridor_Dry Grocery Products	Dry Grocery Products	
+
+ 32, 31, 30, 32, Frequency: 2
+Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	
+
+ 43, 49, 47, Frequency: 2
+Corridor_Dry Grocery Products	Corridor_Check Out	Promotion Products	
+
+Device id: 2016-10-25-:-ee3ea0cb-c228-0500-80ee-4440518c4a42
+ 42, 44, Frequency: 2
+Dry Grocery Products	Organic Products	
+
+Device id: 2016-10-26-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 30, 34, 33, 34, Frequency: 2
+Neighboring_Fruit & Vegetables	Corridor_Bakery & Patisserie	Bakery & Patisserie	Corridor_Bakery & Patisserie	
+
+Device id: 2016-10-26-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 38, 32, 38, 37, 38, 37, Frequency: 2
+Corridor_Snack Counter	Neighboring_Chilled Deli & Dairy	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Snack Counter	
+
+ 38, 37, 38, 37, 38, 32, Frequency: 2
+Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Neighboring_Chilled Deli & Dairy	
+
+ 38, 37, 38, 32, Frequency: 2
+Corridor_Snack Counter	Snack Counter	Corridor_Snack Counter	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-10-26-:-beb6c163-1933-0500-a5ce-4440e18c4a42
+ 37, 50, 32, Frequency: 2
+Snack Counter	Outside Store	Neighboring_Chilled Deli & Dairy	
+
+Device id: 2016-10-27-:-49436660-1933-0500-ddcd-4440dc8c4a42
+ 3, 5, 6, 47, 42, Frequency: 2
+Health, Beauty & Care	Fashion & Textiles	Corridor_Fashion & Textiles	Promotion Products	Dry Grocery Products	
+
+ 47, 39, 52, 39, 47, Frequency: 2
+Promotion Products	Household & Pets Products	Wine	Household & Pets Products	Promotion Products	
+
+ 3, 4, 51, 4, Frequency: 2
+Health, Beauty & Care	Corridor_Health	Entrance	Corridor_Health	
+
+Device id: 2016-10-27-:-649c1d14-a031-0500-26cd-0e40347b4342
+ 19, 21, 20, 24, Frequency: 2
+Beverages	Cheese & Charcuterie Counter	Corridor_Cheese & Charcuterie Counter	Right Aisle_Fish Counter	
+
+Device id: 2016-10-27-:-82e12171-1933-0500-13cd-4440fd8c4a42
+ 4, 51, 4, 51, 4, 51, 4, 51, 4, 51, 51, 51, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Entrance	Entrance	
+
+ 29, 23, 29, 30, 25, Frequency: 2
+Fruit & Vegetables	Fish Counter	Fruit & Vegetables	Neighboring_Fruit & Vegetables	Left Aisle_Fish Counter	
+
+Device id: 2016-10-27-:-903fc408-1933-0500-c2ce-4440e18c4a42
+ 47, 47, 51, 47, 51, 47, 51, Frequency: 2
+Promotion Products	Promotion Products	Entrance	Promotion Products	Entrance	Promotion Products	Entrance	
+
+ 47, 42, 39, 52, 39, Frequency: 2
+Promotion Products	Dry Grocery Products	Household & Pets Products	Wine	Household & Pets Products	
+
+ 40, 52, 40, 18, Frequency: 2
+Corridor_Household & Pets Products	Wine	Corridor_Household & Pets Products	Corridor_Beverages	
+
+ 52, 41, 39, 41, Frequency: 2
+Wine	Aisle_Household & Pets Products	Household & Pets Products	Aisle_Household & Pets Products	
+
+ 47, 47, 51, Frequency: 2
+Promotion Products	Promotion Products	Entrance	
+
+Device id: 2016-10-27-:-beb6c163-1933-0500-a5ce-4440e18c4a42
+ 4, 51, 50, Frequency: 2
+Corridor_Health	Entrance	Outside Store	
+
+ 4, 51, 4, 47, 4, 51, 4, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Promotion Products	Corridor_Health	Entrance	Corridor_Health	
+
+ 4, 51, 4, 4, 51, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Corridor_Health	Entrance	
+
+ 4, 51, 4, 51, 4, 51, 4, 51, 51, Frequency: 2
+Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Corridor_Health	Entrance	Entrance	
+
+Device id: 2016-10-28-:-8802ca2d-0032-0500-909f-4440a7884a42
+ 31, 32, 49, Frequency: 2
+Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Corridor_Check Out	
+
+Device id: 2016-10-28-:-f49c1777-1933-0500-d5ce-4440e08c4a42
+ 16, 47, 9, 8, Frequency: 2
+Corridor_Toys, Sports & DIY	Promotion Products	Aisle_Household	Corridor_Small Household	
+
+Device id: 2016-11-01-:-a7eeeb29-c228-0500-11c3-ae4014a64d42
+ 7, 9, 10, 11, Frequency: 2
+Small Household Goods	Aisle_Household	Corridor_Home Appliances	Home Appliances	
+
+ 11, 13, 11, 13, Frequency: 2
+Home Appliances	Books & Stationary	Home Appliances	Books & Stationary	
+
+ 11, 10, 9, Frequency: 2
+Home Appliances	Corridor_Home Appliances	Aisle_Household	
+
+ 11, 10, 11, Frequency: 2
+Home Appliances	Corridor_Home Appliances	Home Appliances	
+
+ 7, 9, 10, 11, 10, 9, Frequency: 2
+Small Household Goods	Aisle_Household	Corridor_Home Appliances	Home Appliances	Corridor_Home Appliances	Aisle_Household	
+
+ 7, 10, 11, Frequency: 2
+Small Household Goods	Corridor_Home Appliances	Home Appliances	
+
+ 13, 11, 10, Frequency: 2
+Books & Stationary	Home Appliances	Corridor_Home Appliances	
+
+ 7, 9, 7, 9, 10, Frequency: 2
+Small Household Goods	Aisle_Household	Small Household Goods	Aisle_Household	Corridor_Home Appliances	
+
+ 7, 9, 7, 8, Frequency: 2
+Small Household Goods	Aisle_Household	Small Household Goods	Corridor_Small Household	
+
+ 10, 9, 7, 9, Frequency: 2
+Corridor_Home Appliances	Aisle_Household	Small Household Goods	Aisle_Household	
+
+ 7, 7, 9, 7, 9, Frequency: 2
+Small Household Goods	Small Household Goods	Aisle_Household	Small Household Goods	Aisle_Household	
+
+ 7, 8, 7, 8, Frequency: 3
+Small Household Goods	Corridor_Small Household	Small Household Goods	Corridor_Small Household	
+
+ 9, 10, 11, Frequency: 2
+Aisle_Household	Corridor_Home Appliances	Home Appliances	
+
+ 10, 11, 10, 9, Frequency: 2
+Corridor_Home Appliances	Home Appliances	Corridor_Home Appliances	Aisle_Household	
+
+ 10, 11, 51, 10, 11, Frequency: 2
+Corridor_Home Appliances	Home Appliances	Entrance	Corridor_Home Appliances	Home Appliances	
+
+ 11, 10, 9, 7, Frequency: 2
+Home Appliances	Corridor_Home Appliances	Aisle_Household	Small Household Goods	
+
+Device id: 2016-11-02-:-a7eeeb29-c228-0500-11c3-ae4014a64d42
+ 18, 40, 47, 41, 47, Frequency: 2
+Corridor_Beverages	Corridor_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	Promotion Products	
+
+ 47, 41, 47, 41, 47, 41, 47, 41, 47, Frequency: 2
+Promotion Products	Aisle_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	Promotion Products	
+
+ 16, 14, 47, 41, Frequency: 2
+Corridor_Toys, Sports & DIY	Corridor_Seasonal Non-Food	Promotion Products	Aisle_Household & Pets Products	
+
+ 14, 47, 14, Frequency: 2
+Corridor_Seasonal Non-Food	Promotion Products	Corridor_Seasonal Non-Food	
+
+Device id: 2016-11-02-:-ccb7d00b-c328-0500-cfeb-4440178c4a42
+ 21, 20, 24, Frequency: 2
+Cheese & Charcuterie Counter	Corridor_Cheese & Charcuterie Counter	Right Aisle_Fish Counter	
+
+ 33, 34, 30, 29, 30, Frequency: 2
+Bakery & Patisserie	Corridor_Bakery & Patisserie	Neighboring_Fruit & Vegetables	Fruit & Vegetables	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-11-04-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 44, 26, 44, Frequency: 2
+Organic Products	Frozen Deli & Dairy	Organic Products	
+
+Device id: 2016-11-04-:-8aa24301-1933-0500-4dce-4440e08c4a42
+ 47, 6, 47, Frequency: 2
+Promotion Products	Corridor_Fashion & Textiles	Promotion Products	
+
+ 15, 14, 47, Frequency: 2
+Seasonal Non-Food	Corridor_Seasonal Non-Food	Promotion Products	
+
+ 39, 45, 27, Frequency: 2
+Household & Pets Products	Right Aisle_Organic Products	Right Aisle_Frozen Deli & Dairy	
+
+Device id: 2016-11-09-:-ee3ea0cb-c228-0500-80ee-4440518c4a42
+ 20, 22, 20, Frequency: 2
+Corridor_Cheese & Charcuterie Counter	Meat Counter	Corridor_Cheese & Charcuterie Counter	
+
+ 6, 47, 6, Frequency: 2
+Corridor_Fashion & Textiles	Promotion Products	Corridor_Fashion & Textiles	
+
+Device id: 2016-11-10-:-ccb7d00b-c328-0500-cfeb-4440178c4a42
+ 47, 16, 17, 16, 17, 15, Frequency: 2
+Promotion Products	Corridor_Toys, Sports & DIY	Toys, Sports & DIY	Corridor_Toys, Sports & DIY	Toys, Sports & DIY	Seasonal Non-Food	
+
+ 30, 32, 30, Frequency: 3
+Neighboring_Fruit & Vegetables	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-11-12-:-9332c459-1a33-0500-21cf-4440e38c4a42
+ 7, 9, 12, Frequency: 2
+Small Household Goods	Aisle_Household	Corridor_Books & Stationary	
+
+Device id: 2016-11-15-:-ccb7d00b-c328-0500-cfeb-4440178c4a42
+ 47, 41, 47, 41, Frequency: 2
+Promotion Products	Aisle_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	
+
+Device id: 2016-11-16-:-6f5c84ff-1833-0500-a6ce-4440d98c4a42
+ 12, 9, 8, Frequency: 2
+Corridor_Books & Stationary	Aisle_Household	Corridor_Small Household	
+
+Device id: 2016-11-16-:-a7eeeb29-c228-0500-11c3-ae4014a64d42
+ 42, 43, 47, Frequency: 2
+Dry Grocery Products	Corridor_Dry Grocery Products	Promotion Products	
+
+ 49, 43, Frequency: 2
+Corridor_Check Out	Corridor_Dry Grocery Products	
+
+ 47, 18, 19, 17, 19, Frequency: 2
+Promotion Products	Corridor_Beverages	Beverages	Toys, Sports & DIY	Beverages	
+
+ 41, 47, 41, 47, 41, Frequency: 2
+Aisle_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	
+
+ 47, 42, 43, Frequency: 2
+Promotion Products	Dry Grocery Products	Corridor_Dry Grocery Products	
+
+ 47, 43, 47, 49, Frequency: 2
+Promotion Products	Corridor_Dry Grocery Products	Promotion Products	Corridor_Check Out	
+
+ 47, 41, 47, 41, 47, Frequency: 2
+Promotion Products	Aisle_Household & Pets Products	Promotion Products	Aisle_Household & Pets Products	Promotion Products	
+
+Device id: 2016-11-16-:-ccb7d00b-c328-0500-cfeb-4440178c4a42
+ 31, 32, 31, 32, 31, 32, 31, 32, 31, 32, 30, Frequency: 2
+Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Chilled Deli & Dairy	Neighboring_Chilled Deli & Dairy	Neighboring_Fruit & Vegetables	
+
+Device id: 2016-11-18-:-ee3ea0cb-c228-0500-80ee-4440518c4a42
+ 40, 52, 23, Frequency: 2
+Corridor_Household & Pets Products	Wine	Fish Counter	
+
