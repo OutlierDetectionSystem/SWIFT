@@ -1,0 +1,14 @@
+S	Synchronization
+A	Alarm
+K	Calendar
+M	Meter
+X	SwitchLog
+L	ReportLocation
+R	GSMReg
+u	Firmware
+B	LightSettings
+F	Configurations
+C	FactorySettings
+O	Override
+P	RealTimeStatus
+U	FirmwareUpdateStatus
